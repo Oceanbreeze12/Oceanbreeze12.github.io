@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " We are here to learn the errors."
-date:       2019-01-24 23:42:17 +0000
+date:       2019-01-24 18:42:18 -0500
 permalink:  we_are_here_to_learn_the_errors
 ---
 
